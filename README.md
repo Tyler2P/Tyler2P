@@ -9,4 +9,5 @@
 ### Github Statistics
 ![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler2P&theme=dark)
 ### Check me out on:
-<a href="https://stackoverflow.com/users/14267427/tyler2p" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Tyler2P"/></a>
+<!-- <a href="https://stackoverflow.com/users/14267427/tyler2p" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Tyler2P"/></a> -->
+<a href="https://stackoverflow.com/users/14267427/tyler2p"><img src="https://stackoverflow.com/users/flair/14267427.png?theme=clean" width="208" height="58" alt="Tyler2P at Stack Overflow" title="profile for Tyler2P at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
