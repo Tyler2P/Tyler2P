@@ -5,7 +5,6 @@
 ![Git](https://img.icons8.com/color/50/git.png)
 ![Node.js](https://img.icons8.com/fluency/50/node-js.png)
 ![HTML](https://img.icons8.com/color/50/000000/html-5--v1.png) 
-![CSharp](https://img.icons8.com/color/50/c-sharp-logo.png)
 ![Swift](https://img.icons8.com/color/50/swift.png)
 ### Github Statistics
 ![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler2P&theme=dark)
